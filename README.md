@@ -34,4 +34,6 @@ Similar metrics as the Monthly View, but aggregated over a customizable date ran
 7.Wait Time  
 8.Department Referral  
 9.Admission Status  
-## Click Here to view dataset :
+## Links
+1.Click Here to download dataset :
+2.Click Here to download Power Bi file :
