@@ -35,5 +35,5 @@ Similar metrics as the Monthly View, but aggregated over a customizable date ran
 8.Department Referral  
 9.Admission Status  
 ## Links
-1.Click Here to download dataset :
-2.Click Here to download Power Bi file :
+1.Click Here to download dataset :https://github.com/chandana1798/Hospital-ER/blob/main/Hospital%20ER_Data.csv  
+2.Click Here to download Power Bi file :https://github.com/chandana1798/Hospital-ER/blob/main/Hospital.pbit
