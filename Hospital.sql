@@ -1,4 +1,3 @@
-![Image](https://github.com/user-attachments/assets/819cd15d-ed52-415b-993d-3ee82aec30a5)
 use Hospital
 select * from [Hospital_Data]
 
